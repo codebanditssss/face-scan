@@ -880,8 +880,8 @@ def add_multiple_students():
             'roll_number': '2481069'
         },
         {
-            'name': 'Simran Khan',
-            'image_path': 'data/student_images/simran khan.png',
+            'name': 'Devansh Datta',
+            'image_path': 'data/student_images/devansh datta.jpg',
             'class_name': '12th A',
             'roll_number': '2481436'
         },
