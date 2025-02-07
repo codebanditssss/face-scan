@@ -884,24 +884,6 @@ def add_multiple_students():
             'image_path': 'data/student_images/devansh datta.jpg',
             'class_name': '12th A',
             'roll_number': '2481436'
-        },
-        {
-            'name': 'Nishta Dhiman',
-            'image_path': 'data/student_images/nishta dhiman.png',
-            'class_name': '12th A',
-            'roll_number': '2481543'
-        },
-        {
-            'name': 'Souvik Sharma',
-            'image_path': 'data/student_images/souvik sharma.png',
-            'class_name': '12th A',
-            'roll_number': '2481058'
-        },
-        {
-            'name': 'Ujjwal Niggam',
-            'image_path': 'data/student_images/ujjwal niggam.png',
-            'class_name': '12th A',
-            'roll_number': '2481053'
         }
     ]
     
