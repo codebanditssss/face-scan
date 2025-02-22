@@ -1,0 +1,1573 @@
+2025-02-22 16:34:34,276 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:34,278 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:34:34,278 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:34:34,312 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:34,882 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:34,906 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:34,957 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:34:34,970 - src.face_processor.matcher - INFO - Added face for student khushi_diwan
+2025-02-22 16:34:35,015 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:35,107 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:35,132 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:35,184 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:34:35,184 - src.face_processor.matcher - INFO - Added face for student devansh_datta
+2025-02-22 16:34:35,228 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:35,459 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:35,504 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:35,568 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:34:35,568 - src.face_processor.matcher - INFO - Added face for student pooja_batra
+2025-02-22 16:34:35,613 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:35,627 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:35,649 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:35,700 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:34:35,701 - src.face_processor.matcher - INFO - Added face for student aarti_chugh
+2025-02-22 16:34:35,744 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:35,747 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:34:35,747 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:34:36,133 - __main__ - INFO - Starting attendance system
+2025-02-22 16:34:36,688 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:36,720 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:36,821 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:36,858 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:36,908 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:36,939 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:36,994 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,024 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,066 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,102 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,164 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,194 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,236 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,263 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,295 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,321 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,358 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,384 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,421 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,447 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,484 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,509 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,545 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,570 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,611 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,635 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,669 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,695 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,733 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,758 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,796 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,823 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,856 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,883 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,921 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:37,948 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:37,981 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,007 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,043 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,068 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,109 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,133 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,166 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,191 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,228 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,252 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,304 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,328 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,368 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,393 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,432 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,457 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,494 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,521 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,554 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,578 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,618 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,644 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,678 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,703 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,743 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,766 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,808 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,831 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,864 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,890 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,927 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:38,951 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:38,988 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,013 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,049 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,073 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,113 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,138 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,175 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,199 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,235 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,260 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,296 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,322 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,360 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,384 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,420 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,445 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,486 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,510 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,547 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,571 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,609 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,634 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,674 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,699 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,735 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,760 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,797 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,822 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,860 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,884 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,924 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:39,948 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:39,984 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,010 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,047 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:40,094 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:40,124 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,150 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,190 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,214 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,249 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,274 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,311 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,336 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,373 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,397 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,434 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,460 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,497 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:40,546 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:40,579 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,604 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,642 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:40,687 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:40,733 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,758 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,794 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,819 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,857 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,881 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,924 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:40,948 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:40,980 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,005 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,046 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,071 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,106 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,133 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,167 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,192 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,229 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,254 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,293 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,317 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,356 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,380 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,417 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,441 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,478 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,503 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,543 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,567 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,604 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,629 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,666 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,691 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,728 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,755 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,790 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,815 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,853 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,882 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,915 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:41,943 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:41,977 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,005 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,039 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,065 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,100 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,125 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,162 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:42,212 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:42,254 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,280 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,317 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,349 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,380 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:42,432 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:42,473 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,498 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,534 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,565 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,598 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,622 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,659 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,684 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,725 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,751 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,783 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,809 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,837 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,864 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,893 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,919 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:42,949 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:42,975 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:43,014 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:43,039 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:43,078 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:43,103 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:43,134 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:43,183 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:43,214 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:43,262 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:43,296 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:43,344 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:43,392 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:43,416 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:43,450 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:43,476 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:43,512 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:43,538 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:43,777 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:43,841 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:43,937 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:43,975 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:44,016 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:44,049 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:44,091 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:44,160 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:44,195 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:44,273 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:44,310 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:44,358 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:44,390 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:44,415 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:44,451 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:44,476 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:44,511 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:44,559 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:44,607 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:44,657 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:44,701 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:44,756 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:44,797 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:44,825 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:44,858 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:44,912 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:44,953 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:44,983 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:45,014 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:45,039 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:45,073 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:45,099 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:45,137 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:45,185 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:45,246 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:45,302 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:45,338 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:45,366 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:45,403 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:45,427 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:45,466 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:45,490 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:45,525 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:45,573 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:45,609 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:45,634 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:45,668 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:45,717 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:45,762 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:45,787 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:45,822 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:45,869 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:45,903 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:45,955 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:45,995 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:46,020 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:46,058 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:46,082 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:46,120 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:46,167 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:46,200 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:46,225 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:46,265 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:46,291 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:46,325 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:46,349 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:46,387 - __main__ - INFO - System shutdown complete
+2025-02-22 16:34:53,280 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:53,282 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:34:53,282 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:34:53,311 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:53,902 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:53,938 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:54,041 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:34:54,041 - src.face_processor.matcher - INFO - Added face for student khushi_diwan
+2025-02-22 16:34:54,116 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:54,200 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:54,232 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:54,309 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:34:54,309 - src.face_processor.matcher - INFO - Added face for student devansh_datta
+2025-02-22 16:34:54,375 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:54,635 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:34:54,684 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:34:54,737 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:34:54,738 - src.face_processor.matcher - INFO - Added face for student pooja_batra
+2025-02-22 16:34:54,788 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:34:54,803 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:34:54,825 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:34:54,880 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:34:54,880 - src.face_processor.matcher - INFO - Added face for student aarti_chugh
+2025-02-22 16:35:06,954 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:06,978 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:06,979 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:07,933 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:07,954 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:07,954 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:08,951 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:08,982 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:08,982 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:09,919 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:09,942 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:09,942 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:10,917 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:10,939 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:10,939 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:11,919 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:11,942 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:11,942 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:12,921 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:12,942 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:12,942 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:13,919 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:13,940 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:13,940 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:14,922 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:14,943 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:14,943 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:15,947 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:15,970 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:15,970 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:16,949 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:16,970 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:16,970 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:17,950 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:17,971 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:17,971 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:18,944 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:18,964 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:18,964 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:19,952 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:19,973 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:19,973 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:20,919 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:20,960 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:20,960 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:21,928 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:21,969 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:21,969 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:22,921 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:22,963 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:22,963 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:23,918 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:35:23,919 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:35:24,919 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:24,941 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:24,941 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:25,922 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:25,944 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:25,944 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:26,931 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:35:26,931 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:35:27,924 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:27,946 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:27,946 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:28,930 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:28,950 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:28,950 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:29,923 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:29,944 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:29,944 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:30,919 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:35:30,919 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:35:31,918 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:35:31,919 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:35:32,927 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:32,949 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:32,949 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:33,916 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:33,938 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:33,938 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:34,926 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:34,947 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:34,947 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:35,930 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:35:35,930 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:35:36,917 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:36,937 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:36,939 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:37,923 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:37,944 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:37,944 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:38,929 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:38,972 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:38,972 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:39,921 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:35:39,921 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:35:40,919 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:40,940 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:40,940 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:41,929 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:41,950 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:41,951 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:42,920 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:42,941 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:42,941 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:43,920 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:43,941 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:43,942 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:44,930 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:35:44,931 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:35:45,925 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:45,966 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:45,966 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:46,923 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:46,966 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:46,966 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:47,918 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:47,960 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:47,960 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:48,931 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:48,974 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:48,974 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:49,927 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:49,970 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:49,970 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:50,920 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:50,963 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:50,963 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:51,918 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:51,960 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:51,960 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:52,925 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:52,970 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:52,970 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:53,923 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:53,965 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:53,965 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:54,919 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:54,941 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:54,941 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:55,924 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:55,946 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:55,946 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:56,934 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:35:56,977 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:35:56,977 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:57,923 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:57,944 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:57,944 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:58,919 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:58,941 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:58,941 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:35:59,939 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:35:59,965 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:35:59,965 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:00,952 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:00,990 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:00,991 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:01,965 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:01,965 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:02,950 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:02,950 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:03,948 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:03,975 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:03,976 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:04,954 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:04,954 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:05,943 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:05,943 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:06,953 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:06,954 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:07,959 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:07,988 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:07,988 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:08,948 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:08,948 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:09,954 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:09,974 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:09,974 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:10,946 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:10,987 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:10,987 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:11,942 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:11,982 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:11,982 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:12,961 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:13,013 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:13,013 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:13,560 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:13,564 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:36:13,564 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:36:13,595 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:13,963 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:14,019 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:14,021 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:14,207 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:14,232 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:14,286 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:36:14,287 - src.face_processor.matcher - INFO - Added face for student khushi_diwan
+2025-02-22 16:36:14,366 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:14,447 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:14,474 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:14,530 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:36:14,530 - src.face_processor.matcher - INFO - Added face for student devansh_datta
+2025-02-22 16:36:14,627 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:14,868 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:14,915 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:14,954 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:14,990 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:36:14,990 - src.face_processor.matcher - INFO - Added face for student pooja_batra
+2025-02-22 16:36:15,007 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:15,007 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:15,053 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:15,068 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:15,089 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:15,144 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:36:15,144 - src.face_processor.matcher - INFO - Added face for student aarti_chugh
+2025-02-22 16:36:15,186 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:15,189 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:36:15,190 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:36:15,369 - __main__ - INFO - Starting attendance system
+2025-02-22 16:36:15,534 - __main__ - INFO - System shutdown complete
+2025-02-22 16:36:15,957 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:15,986 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:15,986 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:16,944 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:16,997 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:16,998 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:17,945 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:17,965 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:17,966 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:18,924 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:18,944 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:18,944 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:19,929 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:19,970 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:19,970 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:36:24,480 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:24,482 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:36:24,482 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:36:24,513 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:24,982 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:25,006 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:25,057 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:36:25,057 - src.face_processor.matcher - INFO - Added face for student khushi_diwan
+2025-02-22 16:36:25,128 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:25,206 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:25,231 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:25,281 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:36:25,282 - src.face_processor.matcher - INFO - Added face for student devansh_datta
+2025-02-22 16:36:25,351 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:25,592 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:25,635 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:25,686 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:36:25,686 - src.face_processor.matcher - INFO - Added face for student pooja_batra
+2025-02-22 16:36:25,751 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:25,765 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:25,786 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:25,838 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:36:25,838 - src.face_processor.matcher - INFO - Added face for student aarti_chugh
+2025-02-22 16:36:25,880 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:36:25,883 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:36:25,883 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:36:26,145 - __main__ - INFO - Starting attendance system
+2025-02-22 16:36:26,602 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:26,625 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:26,724 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:26,752 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:26,808 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:26,835 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:26,877 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:26,928 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:26,969 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:27,020 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:27,062 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:27,088 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:27,128 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:27,157 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:27,205 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:27,256 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:27,301 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:27,347 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:27,390 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:27,438 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:27,479 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:27,504 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:27,546 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:27,594 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:27,635 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:27,682 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:27,726 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:27,751 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:27,790 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:27,815 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:27,851 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:27,898 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:27,944 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:27,991 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:28,038 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:28,083 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:28,114 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:28,139 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:28,178 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:28,203 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:28,237 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:28,285 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:28,328 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:28,352 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:28,392 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:28,441 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:28,471 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:28,519 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:28,561 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:28,609 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:28,644 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:28,692 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:28,735 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:28,781 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:28,815 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:28,861 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:28,905 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:28,950 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:28,984 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:29,013 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:29,048 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,097 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:29,139 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,187 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:29,234 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,280 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:29,310 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,357 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:29,392 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,439 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:29,482 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,528 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:29,563 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,611 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:29,654 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,699 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:29,735 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,783 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:29,827 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,875 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:29,921 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:29,971 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:30,014 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:30,064 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:30,107 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:30,155 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:30,199 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:30,244 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:30,279 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:30,325 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:30,356 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:30,402 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:30,448 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:30,472 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:30,511 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:30,536 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:30,574 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:30,598 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:30,637 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:30,662 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:30,700 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:30,726 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:30,763 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:30,811 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:30,855 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:30,878 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:30,920 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:30,944 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:30,980 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,005 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,047 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,073 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,106 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:31,107 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:31,139 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,168 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,218 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:31,264 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:31,307 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,332 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,369 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,394 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,435 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:31,435 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:31,467 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:31,468 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:31,499 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,524 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,559 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,583 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,621 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,645 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,682 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,707 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,744 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:31,744 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:31,777 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,804 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,838 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,865 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,900 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,926 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:31,964 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:31,990 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:32,024 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:32,049 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:32,083 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:32,107 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:32,149 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:32,173 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:32,213 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:32,239 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:32,275 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:32,300 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:32,345 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,345 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,382 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,382 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,418 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:32,444 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:32,479 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:32,503 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:32,537 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:32,562 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:32,599 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,600 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,638 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,638 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,679 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,679 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,710 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,710 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,742 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,742 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,772 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,778 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,816 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:32,843 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:32,879 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,879 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,912 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,912 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,942 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,942 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:32,973 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:32,974 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:33,003 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:33,029 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:33,063 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:36:33,063 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:36:33,097 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:33,123 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:33,160 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:36:33,185 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:36:33,226 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:36:33,273 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:36:33,348 - src.database.attendance_db - ERROR - Error marking attendance: no such column: student_id
+2025-02-22 16:36:34,302 - __main__ - INFO - System shutdown complete
+2025-02-22 16:37:45,825 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:45,846 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:45,846 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:46,850 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:46,882 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:46,882 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:47,817 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:47,840 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:47,840 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:48,824 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:37:48,824 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:37:49,850 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:49,896 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:49,896 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:50,823 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:37:50,823 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:37:51,819 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:37:51,819 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:37:52,815 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:52,842 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:52,842 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:53,826 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:53,851 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:53,851 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:54,822 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:54,842 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:54,842 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:55,817 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:55,837 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:55,838 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:56,819 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:56,839 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:56,839 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:57,833 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:57,860 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:57,860 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:58,821 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:58,843 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:58,843 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:37:59,960 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:37:59,990 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:37:59,990 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:00,941 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:00,942 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:01,949 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:01,949 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:02,949 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:02,949 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:03,985 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:03,985 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:04,938 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:04,938 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:05,951 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:05,972 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:05,972 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:06,947 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:06,947 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:07,946 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:07,947 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:08,943 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:08,965 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:08,965 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:09,941 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:09,942 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:10,948 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:10,948 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:11,942 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:11,963 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:11,963 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:12,943 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:12,943 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:13,951 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:13,951 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:14,969 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:14,997 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:14,997 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:15,960 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:15,986 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:15,986 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:16,964 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:16,993 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:16,993 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:17,962 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:17,997 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:17,997 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:18,963 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:18,995 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:18,996 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:19,957 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:19,987 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:19,987 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:20,957 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:20,986 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:20,986 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:21,956 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:21,984 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:21,984 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:22,950 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:22,979 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:22,979 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:23,954 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:23,954 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:24,950 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:24,971 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:24,971 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:25,947 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:25,967 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:25,967 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:26,945 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:26,965 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:26,966 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:27,952 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:27,952 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:28,949 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:28,949 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:29,940 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:29,962 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:29,962 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:30,951 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:30,971 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:30,972 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:31,945 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:38:31,989 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:38:31,989 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:32,953 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:38:32,995 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:38:32,996 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:33,945 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:33,966 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:33,966 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:34,940 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:38:34,983 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:38:34,984 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:35,946 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:35,967 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:35,968 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:36,952 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:36,973 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:36,973 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:37,945 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:37,966 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:37,966 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:38,954 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:38,975 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:38,975 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:39,956 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:39,983 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:39,983 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:40,955 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:40,977 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:40,977 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:41,949 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:41,970 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:41,970 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:42,944 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:42,965 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:42,965 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:43,941 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:43,962 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:43,962 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:44,955 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:44,986 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:44,986 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:45,953 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:45,953 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:46,947 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:46,947 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:47,950 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:47,950 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:48,943 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:48,944 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:49,946 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:49,946 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:50,948 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:50,948 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:51,943 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:51,943 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:52,953 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:52,953 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:53,954 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:53,954 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:54,945 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:54,945 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:38:55,943 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:55,968 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:55,968 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:56,943 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:56,963 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:56,963 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:57,962 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:58,019 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:58,020 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:58,983 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:38:59,035 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:38:59,035 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:38:59,977 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:38:59,978 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:39:00,963 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:39:00,963 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:39:01,968 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:39:01,968 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:39:02,977 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:39:02,977 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:39:03,973 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:39:03,973 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:39:04,993 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:39:04,993 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:39:05,966 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:06,005 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:06,006 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:06,963 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:07,005 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:07,005 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:07,966 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:08,007 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:08,007 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:08,974 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:09,019 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:09,020 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:09,961 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:09,998 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:10,000 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:10,957 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:10,995 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:10,996 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:11,967 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:12,005 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:12,005 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:12,960 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:13,001 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:13,002 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:13,958 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:13,996 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:13,996 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:14,967 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:15,007 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:15,008 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:15,964 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:16,004 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:16,005 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:39:16,826 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:39:16,861 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:39:16,862 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:41:22,085 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:41:22,115 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:41:22,115 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:41:23,043 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:41:23,064 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:41:23,064 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:41:24,043 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:41:24,044 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:41:25,044 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:41:25,044 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:41:26,052 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:41:26,072 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:41:26,072 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:41:27,044 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:41:27,086 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:41:27,087 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:41:28,054 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:41:28,096 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:41:28,096 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:41:29,043 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:41:29,066 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:41:29,066 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:41:30,044 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:41:30,075 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:41:30,075 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:41:31,042 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:41:31,064 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:41:31,064 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:41:45,034 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:41:45,056 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:41:45,056 - __main__ - ERROR - Error processing frame: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-02-22 16:45:36,187 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:45:36,189 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:45:36,190 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:45:36,224 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:45:36,715 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:45:36,737 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:45:36,788 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:45:36,789 - src.face_processor.matcher - INFO - Added face for student khushi_diwan
+2025-02-22 16:45:36,876 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:45:36,958 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:45:36,982 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:45:37,036 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:45:37,036 - src.face_processor.matcher - INFO - Added face for student devansh_datta
+2025-02-22 16:45:37,095 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:45:37,329 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:45:37,371 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:45:37,426 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:45:37,426 - src.face_processor.matcher - INFO - Added face for student pooja_batra
+2025-02-22 16:45:37,485 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:45:37,499 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:45:37,520 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:45:37,570 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:45:37,570 - src.face_processor.matcher - INFO - Added face for student aarti_chugh
+2025-02-22 16:46:30,768 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:46:30,772 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:46:30,773 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:46:30,802 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:46:31,211 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:46:31,235 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:46:31,286 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:46:31,286 - src.face_processor.matcher - INFO - Added face for student khushi_diwan
+2025-02-22 16:46:31,343 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:46:31,424 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:46:31,449 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:46:31,504 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:46:31,504 - src.face_processor.matcher - INFO - Added face for student devansh_datta
+2025-02-22 16:46:31,568 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:46:31,825 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:46:31,868 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:46:31,921 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:46:31,921 - src.face_processor.matcher - INFO - Added face for student pooja_batra
+2025-02-22 16:46:31,985 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:46:32,003 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:46:32,028 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:46:32,088 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:46:32,088 - src.face_processor.matcher - INFO - Added face for student aarti_chugh
+2025-02-22 16:48:16,248 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:16,252 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:48:16,252 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:48:16,286 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:16,747 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:16,774 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:16,833 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:48:16,834 - src.face_processor.matcher - INFO - Added face for student khushi_diwan
+2025-02-22 16:48:16,898 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:17,007 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:17,034 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:17,095 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:48:17,095 - src.face_processor.matcher - INFO - Added face for student devansh_datta
+2025-02-22 16:48:17,195 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:17,479 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:48:17,529 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:48:17,590 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:48:17,590 - src.face_processor.matcher - INFO - Added face for student pooja_batra
+2025-02-22 16:48:17,640 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:17,655 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:17,679 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:17,736 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:48:17,736 - src.face_processor.matcher - INFO - Added face for student aarti_chugh
+2025-02-22 16:48:55,286 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:55,289 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:48:55,290 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:48:55,328 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:55,883 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:55,909 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:55,966 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:48:55,966 - src.face_processor.matcher - INFO - Added face for student khushi_diwan
+2025-02-22 16:48:56,020 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:56,104 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:56,130 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:56,186 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:48:56,187 - src.face_processor.matcher - INFO - Added face for student devansh_datta
+2025-02-22 16:48:56,230 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:56,460 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:48:56,504 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:48:56,558 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:48:56,558 - src.face_processor.matcher - INFO - Added face for student pooja_batra
+2025-02-22 16:48:56,606 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:56,622 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:56,644 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:56,700 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 16:48:56,701 - src.face_processor.matcher - INFO - Added face for student aarti_chugh
+2025-02-22 16:48:56,744 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 16:48:56,747 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 16:48:56,747 - __main__ - INFO - All components initialized successfully
+2025-02-22 16:48:57,014 - __main__ - INFO - Starting attendance system
+2025-02-22 16:48:57,482 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:57,508 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:57,564 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:57,590 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:57,625 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:57,650 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:57,683 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:57,710 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:57,748 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:57,773 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:57,809 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:57,835 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:57,870 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:57,896 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:57,939 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:57,978 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,016 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,059 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,111 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,140 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,184 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,211 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,250 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,278 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,315 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,343 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,385 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,410 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,463 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,487 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,528 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,553 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,587 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:48:58,587 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:48:58,620 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:48:58,621 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:48:58,657 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,681 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,710 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,735 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,775 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,800 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,838 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,864 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,901 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,926 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:58,964 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:58,989 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,024 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,056 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,090 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,117 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,155 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,185 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,226 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,256 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,290 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,318 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,361 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,385 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,414 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,439 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,483 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,508 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,541 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,566 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,599 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,625 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,662 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,688 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,726 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,751 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,787 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,813 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,851 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,877 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,911 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:48:59,939 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:48:59,976 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,004 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,043 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,073 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,119 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,144 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,177 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,202 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,235 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,262 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,299 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,325 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,363 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,389 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,422 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,448 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,492 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,517 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,549 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,574 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,610 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,636 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,675 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,701 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,736 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,762 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,797 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,823 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,860 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,887 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,924 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:00,950 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:00,985 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,011 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,043 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,070 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,108 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,133 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,180 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,206 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,243 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,268 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,310 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,336 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,377 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,402 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,435 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,461 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,497 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,523 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,558 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,584 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,623 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,648 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,687 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,712 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,746 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,772 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,809 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,834 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,869 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,897 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,932 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:01,960 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:01,996 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,024 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,057 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,085 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,124 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,149 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,180 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,206 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,244 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,268 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,307 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,333 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,370 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,397 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,431 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,457 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,495 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,521 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,560 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,586 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,619 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,644 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,680 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,706 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,745 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,770 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,803 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,830 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,865 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,891 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,928 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:02,954 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:02,997 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,023 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,067 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,096 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,131 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,158 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,194 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,220 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,254 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,280 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,317 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,342 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,381 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,408 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,444 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,470 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,503 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,530 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,565 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,593 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,628 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,653 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,695 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,720 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,750 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,776 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,812 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,836 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,873 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,904 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:03,940 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:03,968 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,000 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,028 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,063 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,092 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,127 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,153 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,186 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,211 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,248 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,273 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,312 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,338 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,374 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,398 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,434 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,460 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,502 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,528 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,558 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,584 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,622 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,648 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,684 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,710 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,746 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,775 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,810 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,834 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,873 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,900 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,934 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:04,959 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:04,995 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,021 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,061 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,085 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,121 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,149 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,183 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,208 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,247 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,277 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,318 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,344 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,383 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,409 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,449 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,474 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,520 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,547 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,579 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,605 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,635 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,661 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,697 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,725 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,761 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,786 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,825 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,850 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,886 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,912 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:05,948 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:05,976 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,013 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,040 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,075 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,104 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,138 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,164 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,196 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,222 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,260 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,285 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,325 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,349 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,381 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,407 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,445 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,470 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,507 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,534 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,568 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,593 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,633 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,657 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,693 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,720 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,755 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,782 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,818 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,844 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,881 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:06,906 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:06,943 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:49:06,943 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:49:06,973 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:49:06,973 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:49:07,003 - src.face_processor.detector - INFO - Detected 0 faces in frame
+2025-02-22 16:49:07,003 - src.face_processor.detector - INFO - Successfully processed 0 faces
+2025-02-22 16:49:07,036 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,060 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,096 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,122 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,161 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,185 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,223 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,248 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,285 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,310 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,347 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,372 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,409 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,434 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,473 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,502 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,534 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,559 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,594 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,620 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,659 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,684 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,725 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,750 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,782 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,808 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,845 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,870 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,906 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:07,932 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:07,978 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,008 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,049 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,078 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,110 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,140 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,174 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,199 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,234 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,258 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,294 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,319 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,358 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,382 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,419 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,444 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,479 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,504 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,545 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,569 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,603 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,629 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,664 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,689 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,730 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 16:49:08,754 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 16:49:08,790 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:49:08,838 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:49:08,881 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 16:49:08,927 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 16:49:08,968 - src.database.attendance_db - ERROR - Error marking attendance: no such column: student_id
+2025-02-22 16:49:09,731 - __main__ - INFO - System shutdown complete
+2025-02-22 17:27:41,919 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 17:27:41,924 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 17:27:41,924 - __main__ - INFO - All components initialized successfully
+2025-02-22 17:27:41,980 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 17:27:42,612 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 17:27:42,649 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 17:27:42,743 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 17:27:42,743 - src.face_processor.matcher - INFO - Added face for student khushi_diwan
+2025-02-22 17:27:42,824 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 17:27:42,932 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 17:27:42,966 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 17:27:43,048 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 17:27:43,049 - src.face_processor.matcher - INFO - Added face for student devansh_datta
+2025-02-22 17:27:43,131 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 17:27:43,411 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 17:27:43,481 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 17:27:43,561 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 17:27:43,562 - src.face_processor.matcher - INFO - Added face for student pooja_batra
+2025-02-22 17:27:43,635 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 17:27:43,658 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 17:27:43,693 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 17:27:43,780 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 17:27:43,780 - src.face_processor.matcher - INFO - Added face for student aarti_chugh
+2025-02-22 17:28:07,575 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 17:28:07,580 - src.database.attendance_db - INFO - Attendance database initialized successfully
+2025-02-22 17:28:07,580 - __main__ - INFO - All components initialized successfully
+2025-02-22 17:28:07,634 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 17:28:08,284 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 17:28:08,332 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 17:28:08,414 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 17:28:08,415 - src.face_processor.matcher - INFO - Added face for student khushi_diwan
+2025-02-22 17:28:08,507 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 17:28:08,678 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 17:28:08,715 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 17:28:08,802 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 17:28:08,803 - src.face_processor.matcher - INFO - Added face for student devansh_datta
+2025-02-22 17:28:08,891 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 17:28:09,261 - src.face_processor.detector - INFO - Detected 2 faces in frame
+2025-02-22 17:28:09,332 - src.face_processor.detector - INFO - Successfully processed 2 faces
+2025-02-22 17:28:09,414 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 17:28:09,414 - src.face_processor.matcher - INFO - Added face for student pooja_batra
+2025-02-22 17:28:09,500 - src.face_processor.matcher - INFO - Loaded 9 faces from database
+2025-02-22 17:28:09,523 - src.face_processor.detector - INFO - Detected 1 faces in frame
+2025-02-22 17:28:09,558 - src.face_processor.detector - INFO - Successfully processed 1 faces
+2025-02-22 17:28:09,640 - src.face_processor.matcher - INFO - Database saved successfully
+2025-02-22 17:28:09,640 - src.face_processor.matcher - INFO - Added face for student aarti_chugh

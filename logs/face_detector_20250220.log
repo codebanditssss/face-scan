@@ -1,0 +1,316 @@
+2025-02-20 01:43:06,202 - INFO - Loaded 9 faces from database
+2025-02-20 01:43:07,500 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:07,543 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:07,631 - INFO - Database saved successfully
+2025-02-20 01:43:07,632 - INFO - Added face for student khushi_diwan
+2025-02-20 01:43:07,715 - INFO - Loaded 9 faces from database
+2025-02-20 01:43:07,847 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:07,881 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:07,965 - INFO - Database saved successfully
+2025-02-20 01:43:07,966 - INFO - Added face for student devansh_datta
+2025-02-20 01:43:08,050 - INFO - Loaded 9 faces from database
+2025-02-20 01:43:08,408 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:08,478 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:08,566 - INFO - Database saved successfully
+2025-02-20 01:43:08,566 - INFO - Added face for student pooja_batra
+2025-02-20 01:43:08,655 - INFO - Loaded 9 faces from database
+2025-02-20 01:43:08,680 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:08,717 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:08,810 - INFO - Database saved successfully
+2025-02-20 01:43:08,810 - INFO - Added face for student aarti_chugh
+2025-02-20 01:43:08,875 - INFO - Loaded 9 faces from database
+2025-02-20 01:43:08,880 - INFO - Attendance database initialized successfully
+2025-02-20 01:43:08,881 - INFO - All components initialized successfully
+2025-02-20 01:43:09,435 - INFO - Starting attendance system
+2025-02-20 01:43:10,313 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:10,350 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:10,482 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:10,520 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:10,573 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:10,613 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:10,673 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:10,708 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:10,770 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:10,853 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:10,909 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:10,946 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:10,999 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:11,035 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:11,094 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:11,164 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:11,222 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:11,256 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:11,311 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:11,345 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:11,404 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:11,441 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:11,500 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:11,568 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:11,642 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:11,715 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:11,785 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:11,822 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:11,889 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:11,923 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:11,981 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,016 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:12,074 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,108 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:12,168 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,201 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:12,260 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,294 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:12,373 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,410 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:12,472 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,507 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:12,562 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,595 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:12,659 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,693 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:12,765 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,798 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:12,854 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,888 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:12,958 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:12,994 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:13,069 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:13,107 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:13,170 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:13,205 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:13,264 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:13,297 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:13,358 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:13,392 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:13,457 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:13,494 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:13,562 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:13,596 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:13,668 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:13,702 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:13,769 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:13,803 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:13,864 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:13,897 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:13,956 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:13,989 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:14,048 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:14,081 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:14,142 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:14,175 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:14,249 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:14,283 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:14,350 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:14,385 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:14,441 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:14,475 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:14,536 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:14,570 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:14,629 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:14,662 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:14,723 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:14,757 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:14,825 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:14,861 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:14,930 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:14,964 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,023 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:15,057 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,114 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:15,147 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,208 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:15,242 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,301 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:15,336 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,407 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:15,442 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,510 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:15,544 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,603 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:15,637 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,696 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:15,730 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,789 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:15,822 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,879 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:15,914 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:15,976 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:16,010 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:16,072 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:16,106 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:16,161 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:16,195 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:16,255 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:16,290 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:16,351 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:16,386 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:16,503 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:16,547 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:16,618 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:16,653 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:16,728 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:16,762 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:16,830 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:16,863 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:16,921 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:16,955 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,016 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:17,050 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,120 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:17,153 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,228 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:17,262 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,328 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:17,361 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,421 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:17,453 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,513 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:17,545 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,611 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:17,643 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,715 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:17,748 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,812 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:17,844 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,903 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:17,934 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:17,993 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,025 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:18,084 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,116 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:18,182 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,215 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:18,287 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,321 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:18,390 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,422 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:18,486 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,518 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:18,572 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,606 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:18,664 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,697 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:18,756 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,790 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:18,864 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,897 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:18,961 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:18,993 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,044 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:19,076 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,127 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:19,159 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,226 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:19,258 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,310 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:19,342 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,401 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:19,435 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,493 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:19,524 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,584 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:19,616 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,674 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:19,706 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,765 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:19,796 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,860 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:19,904 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:19,972 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:20,004 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:20,062 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:20,126 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:20,185 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:20,217 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:20,281 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:20,312 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:20,375 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:20,407 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:20,470 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:20,506 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:20,568 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:20,601 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:20,658 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:20,691 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:20,751 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:20,784 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:20,842 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:20,876 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:20,935 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:20,970 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:21,031 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:21,065 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:21,137 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:21,207 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:21,305 - ERROR - Error marking attendance: no such column: student_id
+2025-02-20 01:43:22,106 - INFO - System shutdown complete
+2025-02-20 01:43:29,543 - INFO - Loaded 9 faces from database
+2025-02-20 01:43:30,188 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:30,226 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:30,308 - INFO - Database saved successfully
+2025-02-20 01:43:30,308 - INFO - Added face for student khushi_diwan
+2025-02-20 01:43:30,398 - INFO - Loaded 9 faces from database
+2025-02-20 01:43:30,568 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:30,604 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:30,689 - INFO - Database saved successfully
+2025-02-20 01:43:30,689 - INFO - Added face for student devansh_datta
+2025-02-20 01:43:30,775 - INFO - Loaded 9 faces from database
+2025-02-20 01:43:31,095 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:31,165 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:31,247 - INFO - Database saved successfully
+2025-02-20 01:43:31,247 - INFO - Added face for student pooja_batra
+2025-02-20 01:43:31,333 - INFO - Loaded 9 faces from database
+2025-02-20 01:43:31,357 - INFO - Detected 1 faces in frame
+2025-02-20 01:43:31,392 - INFO - Successfully processed 1 faces
+2025-02-20 01:43:31,482 - INFO - Database saved successfully
+2025-02-20 01:43:31,483 - INFO - Added face for student aarti_chugh
+2025-02-20 01:43:31,564 - INFO - Loaded 9 faces from database
+2025-02-20 01:43:31,569 - INFO - Attendance database initialized successfully
+2025-02-20 01:43:31,570 - INFO - All components initialized successfully
+2025-02-20 01:43:31,960 - INFO - Starting attendance system
+2025-02-20 01:43:32,610 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:32,694 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:32,848 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:32,931 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:32,989 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:33,069 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:33,124 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:33,195 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:33,254 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:33,323 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:33,377 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:33,446 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:33,514 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:33,584 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:33,647 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:33,716 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:33,782 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:33,850 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:33,907 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:33,974 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:34,025 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:34,094 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:34,155 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:34,224 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:34,285 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:34,352 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:34,406 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:34,473 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:34,532 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:34,600 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:34,658 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:34,727 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:34,779 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:34,846 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:34,918 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:34,984 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:35,044 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:35,115 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:35,180 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:35,251 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:35,313 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:35,382 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:35,445 - INFO - Detected 2 faces in frame
+2025-02-20 01:43:35,513 - INFO - Successfully processed 2 faces
+2025-02-20 01:43:35,553 - ERROR - Error marking attendance: no such column: student_id
+2025-02-20 01:43:36,442 - INFO - System shutdown complete
